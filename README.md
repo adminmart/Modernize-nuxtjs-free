@@ -1,9 +1,9 @@
-# <a href="https://modernize-vue3-free.netlify.app/?ref=5">Modernize-vuejs-free</a>
+# <a href="https://modernize-vue3-free.netlify.app/?ref=5">Modernize-nuxtjs-free</a>
 Modernize Free Nuxt 3 Admin Template with vuetify 3 + Typescript
 
 <!-- Main image of Template -->
-<a target="_blank" href="https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/?ref=5">
-  <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-free-vuetify-admin-dashboard-am.png" />
+<a target="_blank" href="https://adminmart.com/product/modernize-free-nuxtjs-admin-dashboard/?ref=5">
+  <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-free-nuxt-admin-dashboard-am.png" />
 </a>
 
 
