@@ -73,14 +73,6 @@ npm run build
 </tr>
 <tr>
   <td>
-  Vuetify 3
-  </td>
-  <td>
-  Vuetify 3
-  </td>
-</tr>
-<tr>
-  <td>
   Fully Responsive Pages
   </td>
   <td>
