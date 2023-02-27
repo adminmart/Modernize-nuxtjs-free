@@ -1,4 +1,4 @@
-# <a href="https://modernize-vue3-free.netlify.app/?ref=5">Modernize-nuxtjs-free</a>
+# <a href="https://modernize-nuxtjs-free.netlify.app/?ref=5">Modernize-nuxtjs-free</a>
 Modernize Free Nuxt 3 Admin Template with vuetify 3 + Typescript
 
 <!-- Main image of Template -->
@@ -34,25 +34,25 @@ npm run build
 <table>
 <thead>
 <tr>
-<th>Modernize Vuejs Free Version</th>
-<th>Modernize Vuejs Pro Version</th>
+<th>Modernize NuxtJs Free Version</th>
+<th>Modernize NuxtJs Pro Version</th>
 </tr>
 </thead>
 <tbody>
 <tr>
   <td>
-    <a href="https://modernize-vue3-free.netlify.app/?ref=5">Live Preview</a>
+    <a href="https://modernize-nuxtjs-free.netlify.app/?ref=5">Live Preview</a>
   </td>
   <td>
-  <a href="https://modernize-vuejs.adminmart.com/?ref=5">Live Preview</a>
+  <a href="https://modernize-nuxt.adminmart.com/?ref=5">Live Preview</a>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=5">Download Now</a>
+    <a href="https://adminmart.com/product/modernize-free-nuxtjs-admin-dashboard/?ref=5">Download Now</a>
   </td>
   <td>
-    <a href="https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/?ref=5">Purchase Now</a>
+    <a href="https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/?ref=5">Purchase Now</a>
   </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ npm run build
   7+ Pages Template
   </td>
   <td>
-  50+ Page Templates
+  65+ Page Templates
   </td>
 </tr>
 <tr>
@@ -121,10 +121,26 @@ npm run build
 </tr>
 <tr>
   <td>
-  Easy To Customize
+  -
   </td>
   <td>
   Easy To Customize
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  1 Year Premium Support
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  15+ Integrated Plugins
   </td>
 </tr>
 </tbody>
