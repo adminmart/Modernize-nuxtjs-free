@@ -112,15 +112,13 @@ const chartOptions = computed(() => {
         </div>
       </div>
       <div class="mt-6">
-        <client-only
-          ><apexchart
-            type="bar"
-            height="370px"
-            :options="chartOptions.chartOptions"
-            :series="chartOptions.series"
-          >
-          </apexchart
-        ></client-only>
+        <apexchart
+          type="bar"
+          height="370px"
+          :options="chartOptions.chartOptions"
+          :series="chartOptions.series"
+        >
+        </apexchart>
       </div>
     </v-card-item>
   </v-card>

@@ -80,15 +80,13 @@ const areaChart = {
       </v-row>
     </v-card-item>
     <div class="mt-3">
-      <client-only
-        ><apexchart
-          type="area"
-          height="60"
-          :options="areachartOptions"
-          :series="areaChart.series"
-        >
-        </apexchart
-      ></client-only>
+      <apexchart
+        type="area"
+        height="60"
+        :options="areachartOptions"
+        :series="areaChart.series"
+      >
+      </apexchart>
     </div>
   </v-card>
 </template>
