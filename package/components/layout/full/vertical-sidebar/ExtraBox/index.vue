@@ -5,7 +5,7 @@
         <div class="d-flex align-center">
             <div class="pr-1">
                 <h6 class="text-h6 text-10 mb-2">Unlimited Access</h6>
-                <v-btn to="/" size="small" color="primary" flat>Upgrade</v-btn>
+                <v-btn to="https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/?ref=5" size="small" color="primary" flat>Upgrade</v-btn>
             </div>
             <div class="mt-n7 ml-2">
                 <img src="/images/background/rocket.png"  alt="background"/>

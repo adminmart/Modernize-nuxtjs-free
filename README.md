@@ -44,7 +44,7 @@ npm run build
     <a href="https://modernize-nuxtjs-free.netlify.app/?ref=5">Live Preview</a>
   </td>
   <td>
-  <a href="https://modernize-nuxt.adminmart.com/?ref=5">Live Preview</a>
+  <a href="https://modernize-nuxt3-main.netlify.app/dashboards/modern/?ref=5">Live Preview</a>
   </td>
 </tr>
 <tr>
@@ -144,17 +144,17 @@ npm run build
 <table>
 <thead>
 <tr>
-<th>Bootstrap</th>
+<th>Nuxt Js</th>
 <th>React</th>
 <th>Vue</th>
-<th>Nuxt Js</th>
+<th>Bootstrap</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-  <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5" rel="nofollow" width="150px">
-    <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-bootstrap-5-admin-template.png" alt="" style="max-width:150px;">
+  <a href="https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/?ref=5" rel="nofollow" width="150px">
+    <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
@@ -168,8 +168,8 @@ npm run build
   </a>
 </td>
   <td>
-  <a href="https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/?ref=5" rel="nofollow" width="150px">
-    <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png" alt="" style="max-width:150px;">
+  <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5" rel="nofollow" width="150px">
+    <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-bootstrap-5-admin-template-min.png" alt="" style="max-width:150px;">
   </a>
 </td>
 </tr>
