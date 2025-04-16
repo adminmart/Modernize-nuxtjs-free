@@ -1,4 +1,7 @@
 {
+  "name": "modernize-nuxtjs-free",
+  "version": "2.0.0",
+  "type": "module",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -7,18 +10,22 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
-  "dependencies": {
-    "@mdi/font": "^6.5.95",
-    "@nuxt/vite-builder": "^3.7.4",
-    "apexcharts": "3.36.3",
-    "sass": "^1.49.9",
-    "vue": "3.3.4",
-    "vue-tabler-icons": "2.9.0",
-    "vue3-apexcharts": "1.4.1",
-    "vue3-perfect-scrollbar": "1.6.0",
-    "vuetify": "3.3.19"
-  },
   "devDependencies": {
-    "nuxt": "3.7.4"
+    "nuxt": "3.16.2"
+  },
+  "dependencies": {
+    "@mdi/font": "7.4.47",
+    "@nuxt/vite-builder": "3.16.2",
+    "apexcharts": "4.5.0",
+    "@iconify/vue": "^4.1.1",
+    "sass": "1.70.0",
+    "vue": "3.5.13",
+    "vue-tabler-icons": "2.21.0",
+    "vue3-apexcharts": "1.5.2",
+    "vue3-perfect-scrollbar": "1.6.1",
+    "vuetify": "3.7.18"
+  },
+  "overrides": {
+    "nth-check": "2.1.1"
   }
 }

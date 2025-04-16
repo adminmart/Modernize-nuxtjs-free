@@ -2,6 +2,7 @@
 .leftSidebar {
     box-shadow: none !important;
     border-right: 1px solid rgb(var(--v-theme-borderColor));
+    top: 75px !important;
     .logo {
         padding-left: 7px;
     }
@@ -13,11 +14,24 @@
     .mini-text {
         display: block;
     }
+
+    .v-navigation-drawer__content {
+       
+        .side-profile {
+            position: absolute;
+            top: -15px;
+            right: 0;
+            max-height: 100px;
+        }
+        .side-profile-text{
+            max-width: 100px;
+        }
+    }
 }
 
 /*This is for the Vertical sidebar*/
 .scrollnavbar {
-    height: calc(100vh - 80px);
+    height: calc(100vh - 150px);
 
     .userbottom {
         position: fixed;
@@ -26,7 +40,7 @@
     }
 
     .smallCap {
-        padding: 3px 12px !important;
+        padding: 3px 0px !important;
         font-size: 0.875rem;
         font-weight: 500;
         margin-top: 24px;
@@ -65,26 +79,27 @@
             font-size: 0.875rem;
         }
     }
+
     .v-list {
         color: rgb(var(--v-theme-textSecondary));
 
-        > .v-list-item.v-list-item--active,
-        .v-list-item--active > .v-list-item__overlay {
+        >.v-list-item.v-list-item--active,
+        .v-list-item--active>.v-list-item__overlay {
             background: rgb(var(--v-theme-primary));
             color: white !important;
         }
 
-        > .v-list-group {
+        >.v-list-group {
             position: relative;
 
-            > .v-list-item--active,
-            > .v-list-item--active:hover {
+            >.v-list-item--active,
+            >.v-list-item--active:hover {
                 background: rgb(var(--v-theme-primary));
                 color: white;
             }
 
             .v-list-group__items .v-list-item.v-list-item--active,
-            .v-list-group__items .v-list-item.v-list-item--active > .v-list-item__overlay {
+            .v-list-group__items .v-list-item.v-list-item--active>.v-list-item__overlay {
                 background: transparent;
                 color: rgb(var(--v-theme-primary));
             }
@@ -134,5 +149,11 @@
                 opacity: 1;
             }
         }
+    }
+}
+
+@media screen and (max-width:1280px) {
+    .leftSidebar {
+        top: 0 !important;
     }
 }

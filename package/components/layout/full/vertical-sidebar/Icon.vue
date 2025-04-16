@@ -6,8 +6,7 @@ const props = defineProps({ item: Object, level: Number });
   <template v-if="level > 0">
     <component
       :is="item"
-      size="5"
-      fill="currentColor"
+      size="14"
       stroke-width="1.5"
       class="iconClass"
     ></component>

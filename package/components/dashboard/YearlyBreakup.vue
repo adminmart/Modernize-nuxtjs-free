@@ -66,7 +66,7 @@ const Chart = [38, 40, 25];
                   size="10"
                   color="primary"
                 ></v-icon>
-                2022
+                2024
               </h6>
               <h6 class="text-subtitle-1 text-muted pl-5">
                 <v-icon
@@ -75,7 +75,7 @@ const Chart = [38, 40, 25];
                   size="10"
                   color="lightprimary"
                 ></v-icon>
-                2023
+                2025
               </h6>
             </div>
           </div>
