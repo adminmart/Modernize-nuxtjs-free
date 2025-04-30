@@ -1,5 +1,7 @@
 import {
   AlertCircleIcon,
+  AlertHexagonIcon,
+  AlignBoxBottomLeftIcon,
   ApertureIcon,
   AppsIcon,
   AppWindowIcon,
@@ -16,6 +18,7 @@ import {
   BoxModelIcon,
   BrandTidalIcon,
   CalendarIcon,
+  CardboardsIcon,
   ChartArcsIcon,
   ChartAreaIcon,
   ChartCandleIcon,
@@ -53,6 +56,7 @@ import {
   ShoppingCartIcon,
   SocialIcon,
   SortAscendingIcon,
+  TableIcon,
   TicketIcon,
   TypographyIcon,
   UserCircleIcon,
@@ -405,6 +409,12 @@ const sidebarItem: menu[] = [
   },
 
   { header: "Pages" },
+  {
+    title: "Sample Page",
+    icon: ApertureIcon,
+    to: "/sample-page",
+    external: false,
+  },
   {
     title: "Pages",
     icon: ChartDonut3Icon,
@@ -789,6 +799,26 @@ const sidebarItem: menu[] = [
 
   { header: "UI" },
   {
+    title: "Alert",
+    icon: AlertHexagonIcon,
+    to: "/ui-components/alerts",
+  },
+  {
+    title: "Button",
+    icon: AlignBoxBottomLeftIcon,
+    to: "/ui-components/buttons",
+  },
+  {
+    title: "Cards",
+    icon: CardboardsIcon,
+    to: "/ui-components/cards",
+  },
+  {
+    title: "Tables",
+    icon: TableIcon,
+    to: "/ui-components/tables",
+  },
+  {
     title: "UI Components",
     icon: BoxIcon,
     chip: "Pro",
@@ -1052,12 +1082,6 @@ const sidebarItem: menu[] = [
     title: "Icons",
     icon: MoodHappyIcon,
     to: "/icons",
-    external: false,
-  },
-  {
-    title: "Sample Page",
-    icon: ApertureIcon,
-    to: "/sample-page",
     external: false,
   },
 ];

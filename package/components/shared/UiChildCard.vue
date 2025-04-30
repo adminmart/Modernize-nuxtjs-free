@@ -5,7 +5,7 @@ const props = defineProps({
 </script>
 
 <template>
-    <v-card variant="outlined">
+    <v-card elevation="10">
         <v-card-item class="py-3">
             <v-card-title class="text-h5">{{ title }}</v-card-title>
         </v-card-item>
