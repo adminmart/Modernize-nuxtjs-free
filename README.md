@@ -10,7 +10,7 @@
 </h1>
 <p>Download most useful and comprehensive 🚀 Free NuxtJs admin template built for developers </p>
 
-[![MaterialM Free Tailwind React Admin Template Demo Screenshot](https://adminmart.com/wp-content/uploads/2023/02/modernize-free-nuxt-admin-dashboard-am-min.png)](https://adminmart.com/product/modernize-free-nuxtjs-admin-dashboard/?ref=56)
+[![MaterialM Free Tailwind React Admin Template Demo Screenshot](https://images.adminmart.com/templates/free/modernize/modernize-free-nuxt-admin-dashboard-am-min.webp)](https://adminmart.com/product/modernize-free-nuxtjs-admin-dashboard/?ref=56)
 
 
 ## 👋 Introduction
@@ -109,7 +109,7 @@ The Pro Version of the **Modernize NuxtJs Dashboard Template** comes packed with
   </a>
 </div>
 
-[![MaterialM Tailwind React Admin Template Demo Screenshot](https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png)](https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/?ref=56)
+[![MaterialM Tailwind React Admin Template Demo Screenshot](https://images.adminmart.com/templates/pro/modernize/modernize-nuxt-js-admin-dashboard.webp)](https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/?ref=56)
 
 ---
 
@@ -162,17 +162,17 @@ The **Free Version** of the **Modernize NuxtJs Dashboard Template** provides a s
       <tr>
          <td>
            <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-bootstrap-5-admin-template-min.png" alt="modernize-bootstrap-admin-template" >
+             <img src="https://images.adminmart.com/templates/pro/modernize/modernize-bootstrap-5-admin-template-min.webp" alt="modernize-bootstrap-admin-template" >
            </a>
          </td>
          <td>
            <a href="https://adminmart.com/product/modernize-next-js-admin-dashboard/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png" alt="modernize-next-admin-template" >
+             <img src="https://images.adminmart.com/templates/pro/modernize/Modernize-Nextjs_withour_redux.webp" alt="modernize-next-admin-template" >
            </a>
          </td> 
          <td>
            <a href="https://adminmart.com/product/modernize-angular-material-dashboard/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2023/04/modernize-angular-material-admin-dashboard-template-1-1.jpg" alt="modernize-angular-admin-template" >
+             <img src="https://images.adminmart.com/templates/pro/modernize/modernize-angular-material-admin-dashboard-template.webp" alt="modernize-angular-admin-template" >
            </a>
          </td> 
       </tr>
@@ -193,12 +193,12 @@ The **Free Version** of the **Modernize NuxtJs Dashboard Template** provides a s
       <tr>
          <td>
            <a href="https://adminmart.com/product/modernize-react-mui-dashboard-theme/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2023/01/Modernize-React-MUI-19_new.jpg" alt="modernize-react-admin-template" >
+             <img src="https://images.adminmart.com/templates/pro/modernize/Modernize-React-MUI-19_new.webp" alt="modernize-react-admin-template" >
            </a>
          </td>
          <td>
            <a href="https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard-min.png" alt="modernize-vue-admin-template" >
+             <img src="https://images.adminmart.com/templates/pro/modernize/modernize-vuetify-admin-dashboard-min.webp" alt="modernize-vue-admin-template" >
            </a>
          </td>
       </tr>
